@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/trepear/MySQL-EmployeeTracker/issues"
   },
-  "homepage": "https://github.com/trepear/MySQL-EmployeeTracker#readme"
+  "homepage": "https://github.com/trepear/MySQL-EmployeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2",
+    "mysql": "^2.18.1"
+  }
 }
